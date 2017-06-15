@@ -196,18 +196,3 @@ void Motor::Initialize() {
   servoClaw.attach(servoPin3);
   adjustMove(180, servoClaw);
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
