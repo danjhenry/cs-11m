@@ -9,7 +9,7 @@ Serial.begin(9600);
 
 void loop() {
 int homo = analogRead(A5);
-cout << homo <<endl;
+cout << test <<endl;
 delay(200);
 
 }
