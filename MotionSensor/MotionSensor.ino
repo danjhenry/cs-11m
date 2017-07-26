@@ -8,7 +8,7 @@ Serial.begin(9600);
 }
 
 void loop() {
-int homo = analogRead(A5);
+int test = analogRead(A5);
 cout << test <<endl;
 delay(200);
 
